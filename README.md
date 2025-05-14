@@ -25,6 +25,10 @@ This is a personal project inspired by:
 🔹 The `planning` folder is where all creative writing, world-building, lore, and narrative structure are stored.  
 🔹 The `game` folder is where prototypes, mechanics, scenes, and systems will be implemented.
 
+## 🚫 Spoilers
+
+In the `planning` and `DevLog` folder, there may be spoilers which give hints about the game. If you are following the journey of making this game, you may read those but be aware that there are spoilers for the game
+
 ---
 
 ## ❗ Legal / Usage Notice
