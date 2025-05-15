@@ -2,24 +2,89 @@
 
 ## Title Card
 
+```text
 ACT 1  
-
 Discovery
+```
 
-
-**[Displayed over black screen. Faint wind sounds. Single piano note pulses.]**
+**[Black screen. Soft ambient wind. A single resonant piano note plays.]**
 
 ---
 
 ## 🎧 Music & Sound Design
 
-- Background: Ambient synths with light piano, distant chimes.
-- Key SFX:
-  - Footsteps on dirt and grass
-  - Wind sweeping through trees
-  - Rustling leaves
-  - Light hum when touching stone
-  - Breathing (subtle, human and close)
+- Background: Deep ambient pads with distant piano notes, light chimes.
+- SFX:
+  - Wind brushing leaves
+  - Breathing (slow and close)
+  - Occasional metal creaks
+  - Subtle reverb textures as the environment begins to “wake”
+
+---
+
+## 🎥 Scene Breakdown & Camera Direction
+
+### 📷 SHOT 1 – BLACK SCREEN
+
+- **Visual:** Black screen.  
+- **Audio:** One soft piano note. The wind fades in slowly.  
+- **Timing:** 3 seconds.  
+- **Effect:** Fades in centered text:
+  
+  ```text
+  ACT 1  
+  Discovery
+  ```
+
+- **Text fades out** after ~2.5 seconds.
+
+---
+
+### 📷 SHOT 2 – HIS FEET
+
+- **Visual:** Close-up of heavy boots in deep violet grass.
+- **Motion:** Very slow camera tilt upward from feet to torso.
+- **Lighting:** Soft blue ambient glow, like moonlight — misty surroundings.
+
+---
+
+### 📷 SHOT 3 – THE ENVIRONMENT
+
+- **Visual:** Over-the-shoulder shot. A quiet forest, alien and forgotten.
+- **Details:** Tree trunks cracked, moss clinging to rusted metal towers.
+- **Color Palette:** Soft blues, greys, purples.
+
+---
+
+### 📷 SHOT 4 – ROTATION SHOT
+
+- **Camera slowly orbits** him as he stands in silence.
+- **His expression:** Confused but not panicked. Curious. Focused.
+- **Particles in the air:** Glowing flakes drift slowly around.
+
+---
+
+### 📷 SHOT 5 – THE STRANGE REFLECTION
+
+- **Visual:** Close-up of his hand brushing strange white grass.
+- **Camera pans to reveal:** A broken shard of metal half-buried nearby.
+- **Reflection:** His face in the metal, but subtly wrong — his eyes flicker unnaturally for a single frame (only visible if watching closely).
+
+---
+
+### 📷 SHOT 6 – LONG SHOT (FORESHADOWING)
+
+- **Visual:** Camera behind him. He stands on a ridge.  
+- **In the distance:** Faint silhouette of a crumbling tower, half swallowed by the fog.
+- **Subtle lighting effect:** Sun (or moon) eclipsed by drifting debris in the sky.
+
+---
+
+### 📷 SHOT 7 – THE FIRST STEP
+
+- **Camera follows** behind him as he starts walking.
+- **Environment shifts:** Grass rustles unnaturally. Trees seem to breathe.
+- **Sound design:** Slight hum begins — subtle, magical.
 
 ---
 
@@ -35,44 +100,20 @@ Discovery
 
 ---
 
-## 🎥 Camera Direction
-
-**Scene opens:**  
-- Black screen with soft wind. Title fades in and out.
-
-**Cut to shot:**
-- Close-up of the boy’s boots standing still in violet grass.  
-- Slowly tilt up to his face — eyes scanning.
-
-**Camera movement:**
-- Slow 360° pan around him as he turns in place, observing the silent forest.
-- Brief over-the-shoulder shot: trees sway, faint glowing particles in the air.
-
-**Cutaway shots:**
-- His hand brushing the particles, scattering them.
-- His reflection in a broken shard of metal.
-- He looks toward a distant ruined structure — the camera lingers as if pulled.
-
-**Follow camera:**
-- Begins tracking behind him as he walks, no UI or indicators.
-- Tilt up to reveal vast ruins beyond thick mist.
-- Pull back slightly to frame his smallness against the world.
-
----
-
 ## 🧠 Mood & Themes
 
-- Emphasis on mystery, curiosity, isolation.
-- Everything is strange yet oddly peaceful — nothing feels threatening yet.
-- The world is quiet but breathing.
-- The boy’s presence here feels *meant*, though unexplained.
+- **Emotional State:** Curiosity over fear. Isolation with awe.
+- **Player should feel:** Lost but compelled forward. Like something ancient is watching.
+- **No HUD, no objectives** — let the world speak first.
 
 ---
 
 ## 📝 End of Scene Prompt
 
-**Text on screen (fades in over black):**
+**Text fades in over black screen:**
 
 > *“You don’t know why you’re here. But something inside you says: find it.”*
 
-**[Music fades out into ambient forest noise. Gameplay begins immediately after.]**
+**Music fades. Game begins.**
+
+---
