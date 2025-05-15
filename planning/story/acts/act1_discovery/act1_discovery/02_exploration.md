@@ -1,79 +1,79 @@
-# Act 1 – Exploration
+# 2.0 Exploration Phase — Act 1
 
-## 🎯 Purpose
+## 🎯 Objective
 
-Introduce the world as a place of wonder, decay, and stillness.  
-Build player curiosity through environmental storytelling and visual mystery.  
-Encourage wandering — minimal guidance, focused on atmosphere and observation.
-
----
-
-## 🎮 Gameplay Structure
-
-- One-way navigation with some branching paths  
-- Light platforming, spatial puzzles, visual storytelling  
-- No direct guidance or objectives, player learns through environment  
+Engage the player instantly with an intriguing, mysterious environment that encourages curiosity and experimentation.  
+Introduce basic movement and interaction mechanics naturally through the environment.
 
 ---
 
-## 🌍 Environment Zones
+## 🌳 Environment Introduction
 
-### 📍 Zone 1 – The Forest Ruins
+- The player awakens at the edge of the **Fractured Grove** — a twilight forest where broken technology melds with ancient nature.
 
-- Dense alien trees with violet leaves  
-- Broken overpasses made of faded black stone and twisted metal  
-- Strange machines overgrown with glowing moss  
-- Interactive switches respond to proximity  
+- Visuals:
+  - Soft purple and blue hues dominate the landscape.  
+  - Cracked stone paths half-covered by glowing moss guide the way forward.  
+  - Occasional gentle wind causes leaves and hanging vines to sway.
 
----
-
-### 📍 Zone 2 – The Tower Valley
-
-- Vast bowl-shaped valley with metal vines and sunken towers  
-- Echoes of movement — sometimes footsteps sound behind but no one’s there  
-- Tower fragments hover mid-air, frozen in place by failed time spells  
+- The atmosphere is both beautiful and eerie — quiet except for distant rustling and faint, ghostly whispers.
 
 ---
 
-### 📍 Zone 3 – The Echoing Garden
+## 🕹 Player Mechanics Introduction
 
-- Stillest zone. No creatures, no music.  
-- Player occasionally sees "memories" — ghostlike silhouettes performing mundane tasks  
-- Boy reacts silently (head tilts, hesitant steps)  
-- Final clue here leads to the artifact’s resting area  
-
----
-
-## 🧠 Narrative Cues
-
-- Breathing gets heavier near major discoveries  
-- Environmental symbols point the way subtly (spirals, fading light paths)  
-- The world “responds” when you touch ancient things (camera shakes, ambient tone shift)  
+- Basic controls introduced via natural landmarks:
+  - Move forward along a softly glowing path.
+  - Interact with the environment by pressing a prompt near glowing symbols and objects.
+  
+- No tutorial boxes; mechanics are taught through environmental design and subtle visual cues.
 
 ---
 
-## 🔮 Environmental Storytelling
+## 🔍 Interactive Elements
 
-- Statues with missing heads, holding objects that resemble the artifacts  
-- A mural half-destroyed by time shows the **serpent god** surrounded by fallen cities  
-- Old robot faces fused into stone walls — emotionless, but facing you  
+- **Glowing Symbols:**  
+  Scattered across trees and rocks, softly pulsating symbols invite the player to interact.  
+  Interaction triggers short visual and audio feedback (e.g., a soft chime and a brief glow pulse).  
+  Collecting or activating several symbols subtly unlocks hidden pathways.
 
----
-
-## 🎧 Sound Design
-
-- Constant shifting ambient tones  
-- When standing still, faint ticking in the distance  
-- Music shifts subtly when entering new areas  
-- Audio “glitches” in key spots (symbolizing time breaking)  
+- **Ancient Switches:**  
+  Stone pedestals with glowing runes that can be pressed to activate mechanisms (e.g., bridge extensions, light beams).  
+  The first switch encountered acts as an intuitive “press this” introduction.
 
 ---
 
-## ⚠️ Emotional Goal
+## 🧩 Early Puzzles & Rewards
 
-- Inspire awe, but with a growing sense of unease  
-- Convey that the player is not the first one here  
-- Emphasize **loneliness**, but also **purpose**  
-- By the time they reach the artifact, they should **feel like it was meant for them**  
+- **Simple Path Unlock:**  
+  Activating a switch raises a broken stone bridge, allowing access to a new area.  
+  This encourages exploration and shows cause-and-effect.
+
+- **Hidden Alcove:**  
+  A small side path leads to a tranquil pool where the player finds a visual story fragment — a holographic memory of the world’s past.  
+  This rewards curiosity and hints at the lore.
+
+---
+
+## 👁 Foreshadowing & Atmosphere
+
+- Subtle cues of an unseen presence:  
+  - A rustling sound from just beyond view.  
+  - Glimpses of shifting shadows between trees.  
+  - Whispering voices growing slightly louder when near interactive symbols.
+
+---
+
+## 🎶 Audio & Visual Mood
+
+- Ambient sounds focus on wind, rustling leaves, distant water drops, and faint ethereal melodies.  
+- Visuals use soft light rays, glowing flora, and gently shifting shadows.
+
+---
+
+## 🧠 Emotional Impact
+
+- Foster a sense of calm curiosity mixed with subtle unease.  
+- The player feels drawn forward, eager to discover what lies ahead.
 
 ---
