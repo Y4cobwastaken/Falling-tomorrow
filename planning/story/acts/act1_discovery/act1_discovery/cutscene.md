@@ -2,10 +2,11 @@
 
 ## Title Card
 
-```text
+
 ACT 1  
+
 Discovery
-```
+
 
 **[Black screen. Soft ambient wind. A single resonant piano note plays.]**
 
