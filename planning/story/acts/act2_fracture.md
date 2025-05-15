@@ -43,7 +43,7 @@ The sky cracks. A version of himself flickers in and out of view.
 
 ---
 
-## 👁 Boss: The Mind’s Mouth
+## 👁 Boss: The Mind’s Mouth [THIS IS A PLACEHOLDER NAME, NOT THE OFFICIAL NAME]
 
 - Form: Shadowed limbs and fragmented voice.
 - Mimics the player's controls with a delay.
