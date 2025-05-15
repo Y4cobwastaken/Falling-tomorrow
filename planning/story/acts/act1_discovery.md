@@ -34,7 +34,7 @@ He walks forward — the trees glow faintly. He follows.
 
 ---
 
-## 🐍 Boss: The Whispering Serpent
+## 🐍 Boss: The Whispering Serpent [THIS IS A PLACEHOLDER NAME, NOT THE OFFICIAL NAME]
 
 - It is massive, invisible, and constantly moving.
 - It **cannot attack**, but you must dodge and track it by sound and environmental clues (shifting grass, dust).
