@@ -1,57 +1,58 @@
 # ACT 1: Discovery
 
-**Title Card:**  
+**Title Card:**
 ACT 1
 Discovery
 
-**Music:** Calm, ambient, filled with faint echoes and mysterious motifs.
+**Music:** Calm, ambient, slightly magical tones.
 
 ---
 
-## 🎥 CUTSCENE: “The Arrival”
+## 🎬 Cutscene
 
-A black screen pulses with ambient sound. Suddenly, a flash—  
-The boy awakens in a collapsing forest where shards of metal float in the air and time pulses oddly.
-
----
-
-## 🌍 WORLD SETTING
-
-- The environment is lush, yet corrupted—like nature and machinery had a war and neither won.
-- Time glitches occasionally: wind flows in reverse, shadows freeze.
-- No living beings are encountered in this act.
-- Environmental storytelling dominates: symbols, remnants, decayed structures.
-- Quest prompts are vague:  
-  *“You feel pulled toward something ancient.”*
+A quiet breeze. Grass sways in a strange light. The boy stands, confused, alone.  
+He walks forward — the trees glow faintly. He follows.
 
 ---
 
-## 🧠 THEME: CURIOSITY & NAIVETY
+## 🌍 World Feel
 
-- The boy is driven by instinct, not knowledge.
-- Player and character are equally unaware.
-- Questions arise: “Why am I here? Why does this world feel familiar?”
-
----
-
-## 🐍 BOSS: The Hollow Serpent
-
-- A long, transparent snake slithers silently through the air.
-- It cannot hurt you—only follow.
-- The fight is about **revealing it** using light/reflections from the environment.
-- When the snake coils around a cracked pillar, light reveals its shape and it disintegrates.
+- Everything is abandoned and beautiful.
+- There are no living beings, only environments.
+- The player explores ruins with tapestries, statues, machinery.
+- Quests are vague — e.g., *“You feel an urge to find something.”*
+- The only guidance comes from the world itself.
 
 ---
 
-## ✨ ARTIFACT 1
+## 🧩 Artifact
 
-- Hidden inside the ruins the snake was guarding.
-- Upon touching:  
-  > The boy sees himself standing alone at a birthday party, surrounded by friends who are all turned away from him.
+- Hidden in a domed observatory, buried beneath vines.
+- To access it, the player must:
+  - Navigate environmental puzzles (e.g., align fractured light beams).
+  - Find keys that resemble broken stars.
 
 ---
 
-## TAKEAWAY
+## 🐍 Boss: The Whispering Serpent
 
-- The world is dying—but it was once full of life.
-- The boy and player are **not here
+- It is massive, invisible, and constantly moving.
+- It **cannot attack**, but you must dodge and track it by sound and environmental clues (shifting grass, dust).
+- The goal is to **outmaneuver it** and activate four towers to reveal the artifact.
+
+---
+
+## ✨ Artifact Vision
+
+When touched, the boy sees:
+> Himself laughing in the rain, surrounded by people.  
+> Then alone in the same place — older, silent.
+
+---
+
+## 🎭 Emotional Feel
+
+- Wonder.
+- Loneliness.
+- Naïve curiosity.
+- You begin to question: *Why is this world so quiet? What happened here?*
