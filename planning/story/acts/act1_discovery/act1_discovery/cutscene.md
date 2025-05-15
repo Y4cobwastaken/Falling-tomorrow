@@ -2,10 +2,10 @@
 
 ## Title Card
 
-```text
 ACT 1  
+
 Discovery
-```
+
 
 **[Displayed over black screen. Faint wind sounds. Single piano note pulses.]**
 
