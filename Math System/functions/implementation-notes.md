@@ -1,58 +1,65 @@
-# Vector Math – Relative Spatial Calculations
+# Implementation Notes — Maths Section
 
-This document explains how vector math operates within the custom spatial system of *Nothing Beside Remains*. All vectors are calculated **relative to anchors, perception, or local frames**, avoiding absolute global positions unless necessary for rendering.
+## Overview
+This document outlines the implementation details, design choices, and important notes regarding the Maths section of the project. It is intended to assist developers in understanding the architecture and key algorithms used.
 
 ---
 
-# 1. Relative Vectors
-def get_relative_vector(A, B, anchor_space):
-    Returns the vector from point A to point B, expressed relative
-    to the coordinate space of the given anchor.
-    # Example usage:
-    # get_relative_vector(player.position, artifact.position, anchor="MemoryStatue1")
-    # Returns vector pointing toward artifact transformed by MemoryStatue1 space
+## Structure
 
+- The maths section is organized into modular components based on mathematical topics (e.g., algebra, calculus, geometry).
+- Each module exposes core functions and utilities relevant to its domain.
+- Common utilities (e.g., matrix operations, numerical methods) are located in `/utils` for reuse across modules.
 
-# 2. Directional Intuition
-def get_facing_vector(entity, anchor_space=None):
-    Calculates the entity’s forward vector based on intention, focus, or camera,
-    optionally filtered by anchor space.
-    # Narrative example:
-    # A boy focused on the horizon might have a forward vector pointing forward
-    # even if physically turning away.
+---
 
+## Key Algorithms and Methods
 
-# 3. Relative Distance
-def relative_distance(A, B, context=None):
-    Returns perceived distance between two points, modified by:
-    - Attention proximity
-    - Anchor distortion (e.g., space folding)
-    - Memory-based warping
-    # Example:
-    # distance = relative_distance(player, goal, context="EntropyZone")
-    # Could return 3m or 50m even if world-space distance is 10m.
+- **Numerical Methods:** Implementation of root-finding (Newton-Raphson), integration (Simpson’s rule), and differentiation.
+- **Linear Algebra:** Matrix multiplication, inversion, eigenvalue computation, vector operations.
+- **Symbolic Computation:** Basic parsing of mathematical expressions for symbolic manipulation.
+- **Graph Theory:** Algorithms such as Dijkstra’s shortest path and BFS for graph traversal.
 
+---
 
-# 4. Meaningful Interpolation
-def interpolate_toward(A, B, t, context=None):
-    Interpolates between A and B along the shortest meaningful path,
-    influenced by local topology or narrative context.
-    - Curves or stalls if player is emotionally avoiding B.
-    - May overshoot or lose precision if world is decaying
+## Dependencies
 
+- Uses [NumPy](https://numpy.org/) for efficient numerical operations and array manipulations.
+- Relies on [SymPy](https://www.sympy.org/) for symbolic mathematics and equation solving.
+- Custom implementations are provided when dependency functionality is insufficient or for educational purposes.
 
-# 5. Projection and Alignment
-def project_onto_reference(obj, reference_axis, anchor_space):
-    Projects an object's position onto a vector axis,
-    distorted by the curvature of the anchor space.
-    Use cases include jump alignment, lock-on targeting,
-    and adjusting environmental motion relative to narrative tilt.
+---
 
+## Performance Considerations
 
-# Optional Enhancements:
+- Computationally intensive algorithms are optimized with vectorized operations where possible.
+- Caching is implemented for repeated calculations to improve responsiveness.
+- Lazy evaluation is used in symbolic computations to defer processing until necessary.
 
-# Non-linear magnitude scaling:
-# Magnitudes adjust logarithmically or exponentially based on entropy levels.
+---
 
-# Vector decay:
-# Stored vectors (e.g., momentum) degrade over time unless refreshed by proximity or intention.
+## Testing
+
+- Unit tests cover core functions in each module, focusing on correctness and edge cases.
+- Numerical stability is tested by comparing outputs with known analytical solutions.
+- Performance benchmarks identify bottlenecks and guide optimizations.
+
+---
+
+## Future Improvements
+
+- Extend symbolic math capabilities to support more complex expressions and simplifications.
+- Introduce GPU acceleration for heavy matrix computations using libraries such as CuPy.
+- Improve error handling for invalid inputs with descriptive exception messages.
+
+---
+
+## Notes for Contributors
+
+- Follow consistent naming conventions and document all new functions with clear docstrings.
+- Add unit tests for any new functionality and update existing tests if necessary.
+- Ensure any added dependencies are justified and do not bloat the project unnecessarily.
+
+---
+
+If you have any questions about the maths implementation, please reach out to the maintainers or open an issue on GitHub.
