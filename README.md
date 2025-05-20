@@ -20,7 +20,7 @@ This is a personal project inspired by:
 
 ---
 
-## Updates
+## 🔗 Updates
 
 I will update this repo at least once a month. This is a project with a few friends, so I will **Try** to update it more than once a month but I cannot garuentee it.
 
