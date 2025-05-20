@@ -22,7 +22,9 @@ This is a personal project inspired by:
 
 ## Updates
 
-I will **Try** to update this repo at least once a month. This is a project with a few friends, so I will try to do as much as I can
+I will update this repo at least once a month. This is a project with a few friends, so I will **Try** to update it more than once a month but I cannot garuentee it
+
+After my planning, I will try to update it once a week but currently I'm on planning
 
 ---
 
