@@ -2,7 +2,7 @@
 
 *“Time doesn’t matter. The end is inevitable. So what will you do with what you have?”*
 
-**Falling Tomorrow** is a narrative-driven adventure game set in a magical world on the edge of collapse. You play as a nameless 17-year-old boy transported from Earth into a decaying realm, once ruled by a now-extinct robot civilization. The skies fracture. Time slips. Eight ancient artifacts hold the key to understanding how to live—even when the end is already written.
+**Falling Tomorrow** is a narrative-driven adventure game set in a magical world on the edge of collapse. You play as a nameless 17-year-old boy transported from Earth into a decaying realm, once ruled by a now-extinct robot civilization. The skies fracture. Time slips. Four ancient artifacts hold the key to understanding how to live—even when the end is already written.
 
 As he journeys through alternate versions of this broken world, he sees visions of himself dying, suffering, and sometimes thriving. But this story isn't about avoiding the end—it's about what you choose before it arrives.
 
@@ -17,6 +17,12 @@ This is a personal project inspired by:
   - *Outer Wilds*
   - *Journey*
   - *NieR: Automata*
+
+---
+
+## Updates
+
+I will **Try** to update this repo at least once a month. This is a project with a few friends, so I will try to do as much as I can
 
 ---
 
