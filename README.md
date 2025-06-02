@@ -2,7 +2,7 @@
 
 *“Time doesn’t matter. The end is inevitable. So what will you do with what you have?”*
 
-**Nothing Beside Remains ** is a narrative-driven adventure game set in a magical world on the edge of collapse. You play as a nameless 17-year-old boy transported from Earth into a decaying realm, once ruled by a now-extinct robot civilization. The skies fracture. Time slips. Four ancient artifacts hold the key to understanding how to live—even when the end is already written.
+**Nothing Beside Remains** is a narrative-driven adventure game set in a magical world on the edge of collapse. You play as a nameless 17-year-old boy transported from Earth into a decaying realm, once ruled by a now-extinct robot civilization. The skies fracture. Time slips. Four ancient artifacts hold the key to understanding how to live—even when the end is already written.
 
 ---
 
