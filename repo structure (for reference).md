@@ -1,3 +1,12 @@
+# ✅ ⏳ ❌ Progress Key
+
+| Emoji | Meaning       |
+|-------|---------------|
+| ✅    | Done          |
+| ⏳    | In Progress   |
+| ❌    | Incomplete    |
+
+```plaintext
 / (root)
 ├── README.md                      <!-- [ ] Main repo README describing the game and overall project -->
 /planning/
