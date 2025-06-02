@@ -41,7 +41,7 @@ I'm currently focused on **planning**, and once that's complete, I’ll begin re
 | `/devlog/` | Dev journal and milestone tracking. |
 | `/game/` | Engine prototypes, mechanics, and early builds. |
 
-> ⚠️ **Spoilers Ahead:** The `/planning/` and `/devlog/` folders contain spoilers that may reveal key plot points.  
+⚠️ **Spoilers Ahead:** The `/planning/` and `/devlog/` folders contain spoilers that may reveal key plot points.  
 If you’re following the development journey, you’re welcome to read them — just know they contain narrative details.
 
 ---
@@ -64,6 +64,6 @@ This is a passion project. Please respect the effort and creativity behind it.
 
 **Nothing Beside Remains** is more than a game—  
 It’s a reflection on time, inevitability, and meaning.  
-The world is fading. The future is falling.  
+> The world is fading. The future is falling.  
 But there is still time.  
 **What will you do with it?**
