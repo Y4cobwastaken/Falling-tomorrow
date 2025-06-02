@@ -47,14 +47,14 @@ This boss is a mirror of yourself, it mirrors your weapon and yourself, only del
 
 **Visual Effects: Mirror and Distortion**
 - Enhance the boss's theme by adding visual effects such as shimmering outlines, distorted reflections, or a "cracked mirror" appearance as the boss takes damage.
-- The environment could also reflect the player's state—growing darker or more unstable as the fight intensifies, reinforcing the psychological aspect of facing oneself[4].
+- The environment could also reflect the player's state—growing darker or more unstable as the fight intensifies, reinforcing the psychological aspect of facing oneself.
 
 **Lore: Facing the Self**
-- The Mind Boss can serve as a narrative device, representing the protagonist’s inner fears, regrets, or unresolved conflicts. Defeating the boss could symbolize overcoming personal obstacles or achieving self-acceptance[3][4].
+- The Mind Boss can serve as a narrative device, representing the protagonist’s inner fears, regrets, or unresolved conflicts. Defeating the boss could symbolize overcoming personal obstacles or achieving self-acceptance.
 - Environmental storytelling—such as scattered journal pages, echoing voices, or visual cues—can hint at the boss's origin and its connection to the player.
 
 **Progression and Replayability**
-- Consider implementing different behavior patterns or move sets on subsequent playthroughs, increasing replay value and challenging players to master new strategies[1][5].
+- Consider implementing different behavior patterns or move sets on subsequent playthroughs, increasing replay value and challenging players to master new strategies.
 - Unlockable rewards or achievements for defeating the boss under special conditions (e.g., without taking damage, using specific weapons) can further incentivize mastery.
 
 </details>
