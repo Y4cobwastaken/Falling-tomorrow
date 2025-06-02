@@ -1,44 +1,60 @@
 # 📖 Planning
 
-This folder contains all narrative, world-building, and structural planning documents for **Nothing Beside Remains**.  
-Every act, character, story beat, and emotional arc starts here.
+This folder contains all narrative development, emotional structure, and world-building for **Nothing Beside Remains**.
+
+This is the beating heart of the project—where the tone, story, themes, and moment-to-moment experiences are shaped before anything is programmed.
 
 ---
 
-## ✍️ Structure
+## 🧩 What’s in this Folder?
 
-This folder is divided by **Acts**, each with its own subfolder:
+The `planning/` directory includes:
 
-- `Act1/` – The beginning of the boy’s journey in the wilds
-- `Act2/` – The mountain and mirror-self
-- `Act3/` – The city and the Archivore
-- `Act4/` – The final automaton
-- `Act5/` – The final convergence
-
-Each act contains:
-- Scene breakdowns
-- Cutscene plans
-- Dialogue concepts
-- Visual/narrative rhythm
-- Emotional goals
+- `acts/` – Full breakdowns of the game’s five acts, from cutscenes to open-world design
+- `characters/` – Profiles and arcs for the boy, automata, bosses, and more
+- `dialogue/` – Sample lines, key quotes, and emotional beats
+- `themes/` – The deeper philosophical and emotional ideas driving the story
+- `timeline/` – A chronological record of the world before, during, and after the player arrives
+- `cutscenes/` – Cinematic scripts, emotional moments, and how they visually unfold
+- `structure.md` – A top-level view of narrative flow, game loop, and act-to-act progression
 
 ---
 
-## ✒️ Writing Philosophy
+## 🧠 Narrative Philosophy
 
-- Environmental storytelling first  
-- Minimal exposition, strong symbolism  
-- The player uncovers the truth slowly, and may miss parts intentionally
+> “The world is already ending. The question is: what do you do before it does?”
+
+This game is designed to **reflect on time, inevitability, memory, and meaning**. The story isn’t about preventing the end—it’s about confronting it with honesty and beauty.
+
+Narrative is not delivered through exposition, but through:
+- **Environmental storytelling**
+- **Symbolic dialogue**
+- **Interactions with forgotten technology and memory**
+- **Emotionally-driven exploration**
 
 ---
 
-## ⚠️ Spoilers
+## 🌍 Integration with Map & Systems
 
-This folder contains **heavy narrative spoilers**. Read only if you're ready for the full story.
+All planning documents align with the physical world map, drawn on A3 paper at a scale of:
+
+- **1 cm = 0.25 km**
+
+This ensures that story events and traversal reflect the size, structure, and distances in the actual game world.
 
 ---
 
-## 🗂 Related Folders
+## ⚠️ Spoiler Notice
 
-- `artifacts/` — Lore and narrative design for the four artifacts
-- `bosses/` — Character arcs for major bosses
+This folder includes major spoilers for characters, events, and late-game reveals.  
+If you're a playtester or developer, read freely. If you're a follower of the development journey, tread lightly!
+
+---
+
+## 🛠 Connected Systems
+
+Planning directly informs:
+- `map/` – Region placement, travel distance, key locations
+- `artifacts/` – How powers and regions affect narrative events
+- `physics/` – Player movement, time flow, and world structure
+- `game/` – Event triggers, cutscene scripts, and player interactions
