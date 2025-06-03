@@ -2,11 +2,11 @@
 
 > *“In the beginning, there was only the Seed and the Light. From this primal spark, reality itself unfurled—guided by forces beyond understanding.”*
 
-Welcome to **Nothing Beside Remains**, a world forged in forgotten light and shattered memories. You awaken in a realm where time flows strangely, where ancient machines once walked as gods, and where the boundaries between thought, matter, and energy dissolve.
+Welcome to **Nothing Beside Remains**, a world forged in forgotten light and shattered memories. You awaken in a realm where time flows strangely, where ancient machines once walked, and where the boundaries between thought, matter, and energy dissolve.
 
 For millennia, the great civilization of the Ossus thrived—machine-beings of logic and harmony, creators and explorers who reached beyond the stars themselves. But their rise stirred powers older than worlds, forces that now slumber beneath ruins and hidden archives.
 
-You are the boy — a traveler born from the echoes of a long-lost age, carrying the weight of the Four Artifacts. Each Artifact embodies a fundamental element of existence:  
+You are the boy — a traveler born on earth, carrying the weight of the Four Artifacts. Each Artifact embodies a fundamental element of existence:  
 - Time (£) — the essence of change and becoming  
 - Space (*) — the vast shape of reality itself  
 - Energy (#) — the driving force of motion and life  
@@ -49,7 +49,7 @@ From dense, primeval jungles and frozen alpine heights to sprawling ancient citi
 
 - **The City of Ossus**: The colossal, labyrinthine metropolis at the world’s heart. Its ruined spires and broken machines loom as testaments to Ossus glory and tragedy. Here lies the great archive, home to the Archivore—a living memory-eating beast.
 
-- **The Outer Zones**: Beyond the city and wilds are the Outer Zones, places where reality fractures completely — the edges of the world that bleed into infinite divergence and mathematical forces beyond comprehension.
+- **The Outer Zones**: Beyond the city and wilds are the Outer Zones, places of immense beauty, no one has traveled that far and survied. But it is said that a difernt civilisation lies there, a civilisation that they call 'Human'.
 
 ---
 
@@ -78,7 +78,7 @@ Their scattered presence disrupts the world’s balance, causing distortions in 
 
 ## The Veil of Not
 
-Surrounding the known world is the enigmatic *Veil of Not*, a boundary that separates the world from the infinite beyond—the realm of pure mathematical forces, divergence, and infinite paradoxes.
+Surrounding the known Universe is the enigmatic *Veil of Not*, a boundary that separates the Ossus from the infinite beyond—the realm of pure mathematical forces, divergence, and infinite paradoxes.
 
 Few understand what lies beyond the Veil. It is a place of chaos and possibility, where the usual laws break down and where the secrets of creation itself may be hidden.
 
